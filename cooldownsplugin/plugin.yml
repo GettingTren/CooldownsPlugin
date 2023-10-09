@@ -1,0 +1,7 @@
+name: CooldownsPlugin
+version: '${project.version}'
+main: me.ilgroggo.cooldownsplugin.CooldownsPlugin
+api-version: '1.20'
+commands:
+  heal:
+    description: Fully heal yourself. You need to wait 10 seconds before running this command.
